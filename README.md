@@ -55,7 +55,7 @@ The entry point of the application, managing the lifecycle of the gesture-contro
 
 ## Usage
 
-Activate the assistant by specific hand gestures in front of your webcam. The system can recognize commands through voice and can provide responses and actions like fetching weather data.
+The program displays a camera interface that recognizes hand gestures. Specific gestures activate or deactivate the AI assistant, Lucy, a helpful assistant that you can converse with or command to end conversations either by a hand gesture or by saying "koniec" (end). Activate the assistant by specific hand gestures in front of your webcam. The system can recognize commands through voice and can provide responses and actions like fetching weather data.
 
 ## Contributions
 
